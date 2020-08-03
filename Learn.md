@@ -1,7 +1,7 @@
 for testing solution with boolean test:
 
 ```
-String result;
+bool result = true;
 solution = result ? "Yes" : "No";
 print(result);
 ```
